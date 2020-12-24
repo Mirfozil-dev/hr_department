@@ -1,0 +1,106 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "departmentId": 2,
+      "post": "Junior разработчик",
+      "gender": "male",
+      "birth_date": "2000-07-20"
+    },
+    {
+      "id": 2,
+      "name": "Steve Jobs",
+      "departmentId": 1,
+      "post": "Старший бухгалтер",
+      "gender": "male",
+      "birth_date": "1998-05-04"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "departmentId": 3,
+      "post": "Старший маркетолог",
+      "gender": "male",
+      "birth_date": "1997-09-10"
+    },
+    {
+      "id": 4,
+      "name": "Dickerson Macdonald",
+      "departmentId": 2,
+      "post": "Senior разработчик",
+      "gender": "male",
+      "birth_date": "1999-11-10"
+    },
+    {
+      "id": 5,
+      "name": "Larsen Shaw",
+      "departmentId": 3,
+      "post": "Младший маркетолог",
+      "gender": "male",
+      "birth_date": "1995-11-13"
+    },
+    {
+      "id": 6,
+      "name": "Geneva Wilson",
+      "departmentId": 1,
+      "post": "Младший бухгалтер",
+      "gender": "male",
+      "birth_date": "1993-04-05"
+    },
+    {
+      "id": 7,
+      "name": "Jami Carney",
+      "departmentId": 2,
+      "post": "Middle разработчик",
+      "gender": "male",
+      "birth_date": "1990-08-08"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Smith",
+      "departmentId": 1,
+      "post": "Младший бухгалтер",
+      "gender": "female",
+      "birth_date": "1989-02-28"
+    },
+    {
+      "id": 9,
+      "name": "Sophia Williams",
+      "departmentId": 2,
+      "post": "Junior разработчик",
+      "gender": "female",
+      "birth_date": "1988-12-21"
+    },
+    {
+      "id": 10,
+      "name": "Emma Johnson",
+      "departmentId": 3,
+      "post": "Младший маркетолог",
+      "gender": "female",
+      "birth_date": "2001-10-01"
+    },
+    {
+      "id": 11,
+      "name": "Amelia Brown",
+      "departmentId": 1,
+      "post": "Старший бухгалтер",
+      "gender": "female",
+      "birth_date": "2002-04-01"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "title": "Бухгалтерия"
+    },
+    {
+      "id": 2,
+      "title": "IT"
+    },
+    {
+      "id": 3,
+      "title": "Маркетинг"
+    }
+  ]
+}
